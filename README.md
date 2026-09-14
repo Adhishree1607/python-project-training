@@ -7,3 +7,6 @@ This repository contains my Python practice programs and learning exercises.
 - Python practice programs
 - Debugging examples
 - Learning exercises
+## Current Work
+
+Practicing Git branches and merging.
