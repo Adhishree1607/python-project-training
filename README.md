@@ -10,3 +10,6 @@ This repository contains my Python practice programs and learning exercises.
 ## Current Work
 
 Practicing Git branches and merging.
+## Pull Request Practice
+
+This change is created to practice GitHub Pull Requests.
